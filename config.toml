@@ -98,7 +98,7 @@ github_project_repo = "https://github.com/skyao/learning-yarp"
 # github_subdir = ""
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "yarpyarp"
+gcs_engine_id = "e05b6fcd62dfb4ee3"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
